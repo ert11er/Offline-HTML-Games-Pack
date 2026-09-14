@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Offline HTML Games Launcher</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+    body {
+      background-color: #f4f6f8;
+      color: #333;
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h1 {
+      text-align: center;
+      color: #222;
+    }
+    .card {
+      background: #ffffff;
+      padding: 24px;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    }
+    .form-group {
+      margin-bottom: 20px;
+    }
+    label {
+      display: block;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+    select {
+      width: 100%;
+      padding: 10px 12px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      background-color: #fff;
+    }
+    button {
+      width: 100%;
+      background-color: #0066cc;
+      color: white;
+      border: none;
+      padding: 12px;
+      font-size: 16px;
+      font-weight: 600;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background-color 0.2s;
+    }
+    button:hover {
+      background-color: #0052a3;
+    }
+    button:disabled {
+      background-color: #a0c4e8;
+      cursor: not-allowed;
+    }
+    #status {
+      margin-top: 15px;
+      font-size: 14px;
+      color: #666;
+      text-align: center;
+    }
+    .error {
+      color: #d9534f !important;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Offline HTML Games</h1>
+
+  <div class="card">
+    <div class="form-group">
+      <label for="fileSelect">Select a file to download:</label>
+      <select id="fileSelect" disabled>
+        <option value="">-- Loading files list... --</option>
+      </select>
+    </div>
+
+    <button id="downloadBtn" disabled>Download Selected File</button>
+
+    <div id="status">Fetching list...</div>
+  </div>
+
+  <script>
+    const LIST_URL = 'https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/list.txt';
+    const fileSelect = document.getElementById('fileSelect');
+    const downloadBtn = document.getElementById('downloadBtn');
+    const statusDiv = document.getElementById('status');
+    
+    // 1. Fetch and populate the list options
+    async function loadFileList() {
+      try {
+        const response = await fetch(LIST_URL);
+        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+        
+        const text = await response.text();
+        const urls = text.split('\n').map(line => line.trim()).filter(line => line.length > 0);
+    
+        if (urls.length === 0) {
+          statusDiv.innerText = "No files found in list.txt.";
+          fileSelect.innerHTML = '<option value="">-- No files available --</option>';
+          return;
+        }
+    
+        fileSelect.innerHTML = '<option value="">-- Choose a file --</option>';
+    
+        urls.forEach(url => {
+          const option = document.createElement('option');
+          option.value = url;
+          const fileName = url.split('/').pop();
+          option.textContent = fileName;
+          fileSelect.appendChild(option);
+        });
+    
+        fileSelect.disabled = false;
+        statusDiv.innerText = `Loaded ${urls.length} file(s) from list.txt.`;
+    
+      } catch (err) {
+        console.error(err);
+        statusDiv.className = "error";
+        statusDiv.innerText = "Failed to load list.txt. Make sure the file exists.";
+        fileSelect.innerHTML = '<option value="">-- Error loading options --</option>';
+      }
+    }
+    
+    fileSelect.addEventListener('change', () => {
+      downloadBtn.disabled = !fileSelect.value;
+    });
+    
+    // 2. Fetch file content, trigger disk download, AND launch in new tab
+    downloadBtn.addEventListener('click', async () => {
+      const fileUrl = fileSelect.value;
+      if (!fileUrl) return;
+    
+      const fileName = fileUrl.split('/').pop();
+      const saveName = fileName.includes('.') ? fileName : `${fileName}.html`;
+    
+      statusDiv.className = "";
+      statusDiv.innerText = `Downloading and launching ${saveName}...`;
+      downloadBtn.disabled = true;
+    
+      try {
+        const response = await fetch(fileUrl);
+        if (!response.ok) throw new Error(`Failed to download file: ${response.statusText}`);
+        
+        const text = await response.text();
+    
+        // Force HTML type so the browser renders it as a web page when launched
+        const blob = new Blob([text], { type: 'text/html' });
+        const blobUrl = URL.createObjectURL(blob);
+    
+        // ACTION 1: Trigger disk download
+        const downloadLink = document.createElement('a');
+        downloadLink.href = blobUrl;
+        downloadLink.download = saveName;
+        document.body.appendChild(downloadLink);
+        downloadLink.click();
+        document.body.removeChild(downloadLink);
+    
+        // ACTION 2: Launch the downloaded HTML file in a new tab
+        window.open(blobUrl, '_blank');
+    
+        statusDiv.innerText = `Downloaded and launched ${saveName}!`;
+      } catch (err) {
+        console.error(err);
+        statusDiv.className = "error";
+        statusDiv.innerText = `Error processing file.`;
+      } finally {
+        downloadBtn.disabled = false;
+      }
+    });
+    
+    loadFileList();
+  </script>
+</body>
+</html>
