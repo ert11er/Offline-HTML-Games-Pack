@@ -57,8 +57,10 @@ https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/mas
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/capybara-clicker.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/car-drawing.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/car-king-arena.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/cat-luck.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/chess.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/choppy-orc.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/circle-survival.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/circloO-2.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/circloO.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/clash-of-vikings.html
@@ -75,6 +77,7 @@ https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/mas
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/death-chase.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/death-run-3D.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/demolition-derby-crash-racing.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/dice-roll.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/doodle-jump.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/draw-climber.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/duck-life-2.html
@@ -176,6 +179,7 @@ https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/mas
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/parking-fury-2.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/parking-fury-3.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/parking-fury.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/perfection.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/picos-school.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/ping-pong-chaos.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/pixel-speedrun.html
@@ -189,6 +193,7 @@ https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/mas
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/red-ball-4-vol-1.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/red-ball-4-vol-2.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/red-ball-4-vol-3.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/reflexes.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/retro-bowl-college.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/retro-bowl.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/retro-highway.html
