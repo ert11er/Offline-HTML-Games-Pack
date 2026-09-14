@@ -1,0 +1,50 @@
+name: Generate Offline HTML List
+
+on:
+  push:
+    branches:
+      - master  # Set to 'main' if your default branch is main
+    paths:
+      - 'offline/**'  # Triggers when files in ./offline are modified or added
+  workflow_dispatch:   # Allows manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write      # Grants permission to commit list.txt back to the repo
+
+jobs:
+  build-list:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate URL List
+        run: |
+          # Base URL prefix
+          BASE_URL="https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline"
+          
+          # Empty or create list.txt
+          > list.txt
+
+          # Find all .html files in ./offline, strip directory prefix, and prepend base URL
+          if [ -d "./offline" ]; then
+            find ./offline -maxdepth 1 -type f -name "*.html" | sort | while read -r file; do
+              filename=$(basename "$file")
+              echo "${BASE_URL}/${filename}" >> list.txt
+            done
+          fi
+
+      - name: Commit and Push list.txt
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add list.txt
+          # Only commit if there are changes to list.txt
+          if git diff --staged --quiet; then
+            echo "No changes in list.txt to commit."
+          else
+            git commit -m "auto: update list.txt with offline HTML files"
+            git push
+          fi
