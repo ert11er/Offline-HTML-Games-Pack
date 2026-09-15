@@ -35,11 +35,15 @@ jobs:
            sparse-checkout: index.html
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Prepare artifact
+        run: |
+          mkdir -p _pages
+          cp index.html _pages/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
-          path: './index.html'
+          # Upload _pages directory containing only index.html
+          path: '_pages'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
