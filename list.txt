@@ -8,6 +8,7 @@ https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/mas
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/1v1.lol.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/2048-cupcakes.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/2048.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/26.2.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/3D-flight-simulator.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/8-ball-classic.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/Alpha_1.2.6.html
