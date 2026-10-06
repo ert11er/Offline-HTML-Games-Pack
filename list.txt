@@ -1,8 +1,6 @@
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/!Eaglercraft-launcher.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/1-on-1-soccer.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/1-on-1-tennis.html
-https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/1.12.html
-https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/1.5.html
-https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/1.8.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/10-minutes-till-dawn.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/12-mini-battles.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/1v1.lol.html
@@ -13,9 +11,6 @@ https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/mas
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/3d-free-kick.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/8-ball-classic.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/9007199254740992.html
-https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/Alpha_1.2.6.html
-https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/Beta_1.3.html
-https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/Indev.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/agar-io-lite.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/age-of-war-2.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/age-of-war.html
@@ -77,6 +72,14 @@ https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/mas
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/circloO-2.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/circloO.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/clash-of-vikings.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/classic-0.0.12a-03-wasm.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/classic-0.0.18a-02-wasm.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/classic-0.0.19a-06-wasm.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/classic-0.0.20a-02-wasm.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/classic-0.0.22a-05-wasm.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/classic-0.0.23a-01-wasm.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/classic-0.0.24a-03-wasm.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/classic-0.0.25a-05-wasm.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/cleanup-io.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/cluster-rush.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/coreball.html
