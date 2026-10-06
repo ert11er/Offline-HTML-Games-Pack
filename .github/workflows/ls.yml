@@ -20,13 +20,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout minimal files
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          sparse-checkout: |
-            offline
-            list.txt
-          sparse-checkout-cone-mode: false
+          fetch-depth: 0
 
       - name: Regenerate URL List
         run: |
