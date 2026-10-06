@@ -1,6 +1,6 @@
 <h1>A collection of offline HTML games.</h1>
 
-[![Deploy static content to Pages](https://github.com/ert11er/Offline-HTML-Games-Pack/actions/workflows/static.yml/badge.svg)](https://github.com/ert11er/Offline-HTML-Games-Pack/actions/workflows/static.yml)
+[![Deploy static content to Pages](https://github.com/ert11er/Offline-HTML-Games-Pack/actions/workflows/static.yml/badge.svg)](https://github.com/ert11er/Offline-HTML-Games-Pack/actions/workflows/static.yml) [![Generate Offline HTML List](https://github.com/ert11er/Offline-HTML-Games-Pack/actions/workflows/ls.yml/badge.svg)](https://github.com/ert11er/Offline-HTML-Games-Pack/actions/workflows/ls.yml)
 
 <p>A repo filled with 350 offline games that can each run on a single file. This is a good option if you are having internet connectivity issues, or you're at some place with <i>restricted internet</i>.</p>
 
