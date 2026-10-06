@@ -3,41 +3,44 @@ name: Generate Offline HTML List
 on:
   push:
     branches:
-      - master
+      - master[cite: 1]
     paths:
-      - 'offline/**'
-  workflow_dispatch:
+      - 'offline/**'[cite: 1]
+  workflow_dispatch:[cite: 1]
 
-# Prevents multiple concurrent runs from overwriting each other
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
 permissions:
-  contents: write
+  contents: write[cite: 1]
 
 jobs:
   build-list:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest[cite: 1]
 
     steps:
-      - name: Checkout repository
+      - name: Checkout minimal files
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          # Only pull the offline folder and list.txt, ignoring the rest of the repo
+          sparse-checkout: |
+            offline
+            list.txt
+          sparse-checkout-cone-mode: false
 
-      - name: Generate URL List
+      - name: Regenerate URL List
         run: |
           BASE_URL="https://raw.githubusercontent.com/${{ github.repository }}/refs/heads/${{ github.ref_name }}/offline"
           
-          if [ -d "./offline" ]; then
-            find ./offline -maxdepth 1 -type f -name "*.html" | sort | sed "s|^\./offline/|${BASE_URL}/|" > list.txt
+          if [ -d "./offline" ]; then[cite: 1]
+            find ./offline -maxdepth 1 -type f -name "*.html" | sort | sed "s|^\./offline/|${BASE_URL}/|" > list.txt[cite: 1]
           else
-            > list.txt
+            > list.txt[cite: 1]
           fi
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "auto: update list.txt with offline HTML files"
-          file_pattern: 'list.txt'
+          commit_message: "auto: update list.txt with offline HTML files"[cite: 1]
+          file_pattern: 'list.txt'[cite: 1]
