@@ -1,6 +1,8 @@
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/!Eaglercraft-launcher.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/1-on-1-soccer.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/1-on-1-tennis.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/1.12_WASM.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/1.8_WASM.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/10-minutes-till-dawn.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/12-mini-battles.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/1v1.lol.html
@@ -147,6 +149,7 @@ https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/mas
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/geometry-dash.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/geometry-vibes.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/get-on-top.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/getaway-shootout.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/gladi-hoppers.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/google-baseball.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/offline/google-dino.html
