@@ -1,0 +1,42 @@
+name: Generate Offline HTML List
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'offline/**'
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  build-list:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Regenerate URL List
+        run: |
+          BASE_URL="https://raw.githubusercontent.com/${{ github.repository }}/refs/heads/${{ github.ref_name }}/offline"
+          
+          if [ -d "./offline" ]; then
+            find ./offline -maxdepth 1 -type f -name "*.html" | sort | sed "s|^\./offline/|${BASE_URL}/|" > list.txt
+          else
+            > list.txt
+          fi
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "auto: update list.txt with offline HTML files"
+          file_pattern: 'list.txt'
