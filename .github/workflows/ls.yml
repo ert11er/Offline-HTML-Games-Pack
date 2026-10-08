@@ -25,18 +25,41 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Regenerate URL List
+      - name: Regenerate URL List and Update index.html
         run: |
           BASE_URL="https://raw.githubusercontent.com/${{ github.repository }}/refs/heads/${{ github.ref_name }}/offline"
           
+          # 1. Generate list.txt
           if [ -d "./offline" ]; then
             find ./offline -maxdepth 1 -type f -name "*.html" | sort | sed "s|^\./offline/|${BASE_URL}/|" > list.txt
           else
             > list.txt
           fi
 
+          # 2. Embed content into index.html inside RAW_LIST_DATA
+          if [ -f "index.html" ]; then
+            # Replace contents between RAW_LIST_DATA = ` ... `;
+            python3 -c "
+import re
+
+with open('list.txt', 'r') as f:
+    list_content = f.read().strip()
+
+with open('index.html', 'r') as f:
+    html_content = f.read()
+
+pattern = r'(const\s+RAW_LIST_DATA\s*=\s*`)[^`]*(`;)'
+replacement = r'\g<1>\n' + list_content + r'\n\g<2>'
+
+updated_html = re.sub(pattern, replacement, html_content)
+
+with open('index.html', 'w') as f:
+    f.write(updated_html)
+"
+          fi
+
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "auto: update list.txt with offline HTML files"
-          file_pattern: 'list.txt'
+          commit_message: "auto: update list.txt and index.html with offline HTML files"
+          file_pattern: 'list.txt index.html'

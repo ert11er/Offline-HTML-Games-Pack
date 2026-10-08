@@ -101,7 +101,7 @@
 
   <header>
     <h1>Offline HTML Games</h1>
-    <div id="status">Fetching list...</div>
+    <div id="status">Loading list...</div>
   </header>
 
   <main>
@@ -109,25 +109,26 @@
   </main>
 
   <script>
-    const LIST_URL = 'https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/list.txt';
+    // Embedded list.txt content — add or edit your game URLs here line-by-line
+    const RAW_LIST_DATA = `
+https://example.com/game1.html
+https://example.com/game2.html
+`;
+
     const statusDiv = document.getElementById('status');
     const gridContainer = document.getElementById('gridContainer');
 
-    // 1. Fetch list.txt and generate grid items
-    async function loadGrid() {
+    // 1. Process embedded list content and generate grid items
+    function loadGrid() {
       try {
-        const response = await fetch(LIST_URL);
-        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-        
-        const text = await response.text();
-        const urls = text.split('\n').map(line => line.trim()).filter(line => line.length > 0);
+        const urls = RAW_LIST_DATA.split('\n').map(line => line.trim()).filter(line => line.length > 0);
 
         if (urls.length === 0) {
-          statusDiv.innerText = "No files found in list.txt.";
+          statusDiv.innerText = "No files found in list.";
           return;
         }
 
-        statusDiv.innerText = `Loaded ${urls.length} file(s) from list.txt.`;
+        statusDiv.innerText = `Loaded ${urls.length} file(s).`;
 
         // Render cards inside grid
         urls.forEach(url => {
@@ -149,7 +150,7 @@
       } catch (err) {
         console.error(err);
         statusDiv.className = "error";
-        statusDiv.innerText = "Failed to load list.txt.";
+        statusDiv.innerText = "Failed to parse list data.";
       }
     }
 
