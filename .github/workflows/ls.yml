@@ -27,7 +27,7 @@ jobs:
 
       - name: Regenerate URL List and Update index.html
         run: |
-          BASE_URL="https://raw.githubusercontent.com/${{ github.repository }}/refs/heads/${{ github.ref_name }}/offline"
+          BASE_URL="https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/offline"
           
           # 1. Generate list.txt
           if [ -d "./offline" ]; then
@@ -36,26 +36,9 @@ jobs:
             > list.txt
           fi
 
-          # 2. Embed content into index.html inside RAW_LIST_DATA
+          # 2. Embed content into index.html
           if [ -f "index.html" ]; then
-            # Replace contents between RAW_LIST_DATA = ` ... `;
-            python3 -c "
-import re
-
-with open('list.txt', 'r') as f:
-    list_content = f.read().strip()
-
-with open('index.html', 'r') as f:
-    html_content = f.read()
-
-pattern = r'(const\s+RAW_LIST_DATA\s*=\s*`)[^`]*(`;)'
-replacement = r'\g<1>\n' + list_content + r'\n\g<2>'
-
-updated_html = re.sub(pattern, replacement, html_content)
-
-with open('index.html', 'w') as f:
-    f.write(updated_html)
-"
+            python3 .github/scripts/update_list.py
           fi
 
       - name: Commit and Push changes
