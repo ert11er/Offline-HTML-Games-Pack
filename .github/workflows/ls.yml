@@ -36,11 +36,6 @@ jobs:
             > list.txt
           fi
 
-          # 2. Embed content into index.html
-          if [ -f "index.html" ]; then
-            python3 .github/scripts/update_list.py
-          fi
-
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
