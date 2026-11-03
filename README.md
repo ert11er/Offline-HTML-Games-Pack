@@ -1,3 +1,5 @@
+will fix singlefile
+
 <h1>A collection of offline HTML games.</h1>
 
 [![Deploy static content to Pages](https://github.com/ert11er/Offline-HTML-Games-Pack/actions/workflows/static.yml/badge.svg)](https://github.com/ert11er/Offline-HTML-Games-Pack/actions/workflows/static.yml) [![Generate Offline HTML List](https://github.com/ert11er/Offline-HTML-Games-Pack/actions/workflows/ls.yml/badge.svg)](https://github.com/ert11er/Offline-HTML-Games-Pack/actions/workflows/ls.yml)
