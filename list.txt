@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/master/offline/!Eaglercraft-launcher.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/master/offline/1-on-1-soccer.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/master/offline/1-on-1-tennis.html
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/master/offline/1.12_WASM.html
