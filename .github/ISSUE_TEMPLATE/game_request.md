@@ -5,10 +5,7 @@ title: "Game Request"
 labels: game-request
 ---
 ## Rules
-1. No paid indie games
-2. No online multiplayer games
-3. Must be somewhat popular
-4. No fnf mods
+1. No paid games
 
 
 
