@@ -27,44 +27,43 @@ jobs:
           fetch-depth: 0
 
       - name: Generate list.json
-        shell: bash
+        env:
+          REPOSITORY: ${{ github.repository }}
+          REF_NAME: ${{ github.ref_name }}
         run: |
-          python3 - <<'PY'
+          python3 <<'PY'
           import json
+          import os
           from pathlib import Path
           from urllib.parse import quote
 
-          repo = "${{ github.repository }}"
-          ref = "${{ github.ref_name }}"
-          base = f"https://github.com/{repo}/blob/{ref}"
+          repository = os.environ["REPOSITORY"]
+          ref = quote(os.environ["REF_NAME"], safe="/")
+          raw_base = f"https://raw.githubusercontent.com/{repository}/{ref}"
+          cover_extensions = {".jpg", ".jpeg", ".png", ".webp", ".gif", ".svg"}
 
-          offline_dir = Path("offline")
+          covers = {}
           covers_dir = Path("covers")
-
-          cover_map = {}
-          if covers_dir.exists():
-              for p in covers_dir.iterdir():
-                  if p.is_file():
-                      cover_map[p.stem.lower()] = p.name
+          if covers_dir.is_dir():
+              for cover in covers_dir.iterdir():
+                  if cover.is_file() and cover.suffix.lower() in cover_extensions:
+                      covers.setdefault(cover.stem.lower(), cover.name)
 
           games = []
-          if offline_dir.exists():
-              for html_file in sorted(offline_dir.iterdir(), key=lambda p: p.name.lower()):
-                  if not html_file.is_file():
-                      continue
-                  if html_file.suffix.lower() not in {".html", ".htm"}:
+          offline_dir = Path("offline")
+          if offline_dir.is_dir():
+              for html_file in sorted(offline_dir.iterdir(), key=lambda path: path.name.lower()):
+                  if not html_file.is_file() or html_file.suffix.lower() not in {".html", ".htm"}:
                       continue
 
-                  name = html_file.stem
-                  cover_name = cover_map.get(name.lower())
-                  cover_url = None
-                  if cover_name:
-                      cover_url = f"{base}/covers/{quote(cover_name)}"
-
+                  cover_name = covers.get(html_file.stem.lower())
                   games.append({
-                      "name": name,
-                      "cover": cover_url,
-                      "url": f"{base}/offline/{quote(html_file.name)}",
+                      "name": html_file.stem,
+                      "cover": (
+                          f"{raw_base}/covers/{quote(cover_name)}"
+                          if cover_name else None
+                      ),
+                      "url": f"{raw_base}/offline/{quote(html_file.name)}",
                   })
 
           Path("list.json").write_text(
@@ -73,7 +72,7 @@ jobs:
           )
           PY
 
-      - name: Commit updated list.json
+      - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "auto: update list.json"
