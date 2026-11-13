@@ -1,0 +1,2867 @@
+[
+  {
+    "name": "!Eaglercraft-launcher",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/%21Eaglercraft-launcher.html"
+  },
+  {
+    "name": "1-on-1-soccer",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/1-on-1-soccer.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/1-on-1-soccer.html"
+  },
+  {
+    "name": "1-on-1-tennis",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/1-on-1-tennis.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/1-on-1-tennis.html"
+  },
+  {
+    "name": "1.12_WASM",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/1.12_WASM.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/1.12_WASM.html"
+  },
+  {
+    "name": "1.8_WASM",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/1.8_WASM.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/1.8_WASM.html"
+  },
+  {
+    "name": "10-minutes-till-dawn",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/10-minutes-till-dawn.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/10-minutes-till-dawn.html"
+  },
+  {
+    "name": "12-mini-battles",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/12-mini-battles.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/12-mini-battles.html"
+  },
+  {
+    "name": "1v1.lol",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/1v1.lol.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/1v1.lol.html"
+  },
+  {
+    "name": "1v1lol",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/1v1lol.html"
+  },
+  {
+    "name": "2048-cupcakes",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/2048-cupcakes.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/2048-cupcakes.html"
+  },
+  {
+    "name": "2048",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/2048.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/2048.html"
+  },
+  {
+    "name": "3D-flight-simulator",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/3D-flight-simulator.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/3D-flight-simulator.html"
+  },
+  {
+    "name": "3d-free-kick",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/3d-free-kick.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/3d-free-kick.html"
+  },
+  {
+    "name": "8-ball-classic",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/8-ball-classic.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/8-ball-classic.html"
+  },
+  {
+    "name": "9007199254740992",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/9007199254740992.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/9007199254740992.html"
+  },
+  {
+    "name": "abyss-sonar",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/abyss-sonar.html"
+  },
+  {
+    "name": "agar-io-lite",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/agar-io-lite.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/agar-io-lite.html"
+  },
+  {
+    "name": "agario",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/agario.html"
+  },
+  {
+    "name": "age-of-war-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/age-of-war-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/age-of-war-2.html"
+  },
+  {
+    "name": "age-of-war",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/age-of-war.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/age-of-war.html"
+  },
+  {
+    "name": "ages-of-conflict",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/ages-of-conflict.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/ages-of-conflict.html"
+  },
+  {
+    "name": "air-hockey",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/air-hockey.html"
+  },
+  {
+    "name": "air-traffic-control",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/air-traffic-control.html"
+  },
+  {
+    "name": "alchemy-workshop",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/alchemy-workshop.html"
+  },
+  {
+    "name": "among-us",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/among-us.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/among-us.html"
+  },
+  {
+    "name": "amongus",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/amongus.html"
+  },
+  {
+    "name": "angry-birds-showdown",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/angry-birds-showdown.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/angry-birds-showdown.html"
+  },
+  {
+    "name": "angry-birds-space",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/angry-birds-space.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/angry-birds-space.html"
+  },
+  {
+    "name": "angry-birds",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/angry-birds.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/angry-birds.html"
+  },
+  {
+    "name": "angrybirds",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/angrybirds.html"
+  },
+  {
+    "name": "auction-fever",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/auction-fever.html"
+  },
+  {
+    "name": "auto-chess-forge",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/auto-chess-forge.html"
+  },
+  {
+    "name": "awesome-tanks-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/awesome-tanks-2.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/awesome-tanks-2.html"
+  },
+  {
+    "name": "awesome-tanks",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/awesome-tanks.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/awesome-tanks.html"
+  },
+  {
+    "name": "awesome",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/awesome.html"
+  },
+  {
+    "name": "backpack-arena",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/backpack-arena.html"
+  },
+  {
+    "name": "backrooms",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/backrooms.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/backrooms.html"
+  },
+  {
+    "name": "bacon-may-die",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bacon-may-die.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bacon-may-die.html"
+  },
+  {
+    "name": "bad-ice-cream-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bad-ice-cream-2.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bad-ice-cream-2.html"
+  },
+  {
+    "name": "bad-ice-cream-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bad-ice-cream-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bad-ice-cream-3.html"
+  },
+  {
+    "name": "bad-ice-cream",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bad-ice-cream.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bad-ice-cream.html"
+  },
+  {
+    "name": "bad-parenting",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bad-parenting.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bad-parenting.html"
+  },
+  {
+    "name": "bad-piggies",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bad-piggies.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bad-piggies.html"
+  },
+  {
+    "name": "bad-time-simulator",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bad-time-simulator.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bad-time-simulator.html"
+  },
+  {
+    "name": "badtime",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/badtime.html"
+  },
+  {
+    "name": "baldibasics",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/baldibasics.html"
+  },
+  {
+    "name": "baldis-basics",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/baldis-basics.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/baldis-basics.html"
+  },
+  {
+    "name": "ball-arena",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/ball-arena.html"
+  },
+  {
+    "name": "bank-robbery-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bank-robbery-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bank-robbery-2.html"
+  },
+  {
+    "name": "bank-robbery-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bank-robbery-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bank-robbery-3.html"
+  },
+  {
+    "name": "baseball-bros",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/baseball-bros.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/baseball-bros.html"
+  },
+  {
+    "name": "basebros",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/basebros.html"
+  },
+  {
+    "name": "basin-control",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/basin-control.html"
+  },
+  {
+    "name": "basket-bros",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/basket-bros.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/basket-bros.html"
+  },
+  {
+    "name": "basket-random",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/basket-random.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/basket-random.html"
+  },
+  {
+    "name": "basketball-legends",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/basketball-legends.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/basketball-legends.html"
+  },
+  {
+    "name": "basketball-stars",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/basketball-stars.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/basketball-stars.html"
+  },
+  {
+    "name": "basketbros",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/basketbros.html"
+  },
+  {
+    "name": "basketrandom",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/basketrandom.html"
+  },
+  {
+    "name": "basketstars",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/basketstars.html"
+  },
+  {
+    "name": "battery-cycle",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/battery-cycle.html"
+  },
+  {
+    "name": "beat-bento",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/beat-bento.html"
+  },
+  {
+    "name": "big-ice-tower-tiny-square",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/big-ice-tower-tiny-square.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/big-ice-tower-tiny-square.html"
+  },
+  {
+    "name": "big-neon-tower-tiny-square",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/big-neon-tower-tiny-square.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/big-neon-tower-tiny-square.html"
+  },
+  {
+    "name": "big-tower-tiny-square-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/big-tower-tiny-square-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/big-tower-tiny-square-2.html"
+  },
+  {
+    "name": "big-tower-tiny-square",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/big-tower-tiny-square.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/big-tower-tiny-square.html"
+  },
+  {
+    "name": "bind",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bind.html"
+  },
+  {
+    "name": "bit-planes",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bit-planes.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bit-planes.htm"
+  },
+  {
+    "name": "bitlife",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bitlife.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bitlife.html"
+  },
+  {
+    "name": "blackjack-table",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/blackjack-table.html"
+  },
+  {
+    "name": "block-forge",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/block-forge.html"
+  },
+  {
+    "name": "blocky-snakes",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/blocky-snakes.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/blocky-snakes.html"
+  },
+  {
+    "name": "bloons-TD-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bloons-TD-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bloons-TD-2.html"
+  },
+  {
+    "name": "bloons-TD-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bloons-TD-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bloons-TD-3.html"
+  },
+  {
+    "name": "bloons-TD-4",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bloons-TD-4.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bloons-TD-4.html"
+  },
+  {
+    "name": "bloons-TD-5",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bloons-TD-5.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bloons-TD-5.html"
+  },
+  {
+    "name": "bloons-TD",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bloons-TD.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bloons-TD.html"
+  },
+  {
+    "name": "bloxorz",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bloxorz.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bloxorz.html"
+  },
+  {
+    "name": "blumgi-racers",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/blumgi-racers.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/blumgi-racers.html"
+  },
+  {
+    "name": "blumgi-rocket",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/blumgi-rocket.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/blumgi-rocket.html"
+  },
+  {
+    "name": "bob-the-robber-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bob-the-robber-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bob-the-robber-2.html"
+  },
+  {
+    "name": "bob-the-robber-5",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bob-the-robber-5.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bob-the-robber-5.html"
+  },
+  {
+    "name": "bob-the-robber",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bob-the-robber.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bob-the-robber.html"
+  },
+  {
+    "name": "bomb-grid",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bomb-grid.html"
+  },
+  {
+    "name": "bouncy-motors",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bouncy-motors.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bouncy-motors.html"
+  },
+  {
+    "name": "bow-masters",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bow-masters.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bow-masters.html"
+  },
+  {
+    "name": "boxel-rebound",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/boxel-rebound.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/boxel-rebound.html"
+  },
+  {
+    "name": "boxing-random",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/boxing-random.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/boxing-random.htm"
+  },
+  {
+    "name": "boxingrandom",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/boxingrandom.html"
+  },
+  {
+    "name": "branching-tales",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/branching-tales.html"
+  },
+  {
+    "name": "breaking-the-bank",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/breaking-the-bank.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/breaking-the-bank.html"
+  },
+  {
+    "name": "bubble-shooter",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/bubble-shooter.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bubble-shooter.html"
+  },
+  {
+    "name": "burrito-bison-launcha-libre",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/burrito-bison-launcha-libre.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/burrito-bison-launcha-libre.html"
+  },
+  {
+    "name": "bytebot-lab",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/bytebot-lab.html"
+  },
+  {
+    "name": "candy-crush",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/candy-crush.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/candy-crush.html"
+  },
+  {
+    "name": "capybara-clicker",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/capybara-clicker.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/capybara-clicker.html"
+  },
+  {
+    "name": "car-drawing",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/car-drawing.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/car-drawing.html"
+  },
+  {
+    "name": "car-king-arena",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/car-king-arena.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/car-king-arena.html"
+  },
+  {
+    "name": "cat-luck",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/cat-luck.html"
+  },
+  {
+    "name": "celeste",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/celeste.html"
+  },
+  {
+    "name": "chalk-billiards",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/chalk-billiards.html"
+  },
+  {
+    "name": "chaos-faction-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/chaos-faction-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/chaos-faction-2.html"
+  },
+  {
+    "name": "charm-reels",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/charm-reels.html"
+  },
+  {
+    "name": "checkpoint-inspector",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/checkpoint-inspector.html"
+  },
+  {
+    "name": "chess",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/chess.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/chess.html"
+  },
+  {
+    "name": "choppy-orc",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/choppy-orc.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/choppy-orc.html"
+  },
+  {
+    "name": "chromatic-press",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/chromatic-press.html"
+  },
+  {
+    "name": "chromatography-lab",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/chromatography-lab.html"
+  },
+  {
+    "name": "cipher-relay",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/cipher-relay.html"
+  },
+  {
+    "name": "circle-survival",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/circle-survival.html"
+  },
+  {
+    "name": "circloO-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/circloO-2.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/circloO-2.html"
+  },
+  {
+    "name": "circloO",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/circloO.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/circloO.html"
+  },
+  {
+    "name": "clash-of-vikings",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/clash-of-vikings.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/clash-of-vikings.html"
+  },
+  {
+    "name": "clash",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/clash.html"
+  },
+  {
+    "name": "classic-0.0.12a-03-wasm",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/classic-0.0.12a-03-wasm.html"
+  },
+  {
+    "name": "classic-0.0.18a-02-wasm",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/classic-0.0.18a-02-wasm.html"
+  },
+  {
+    "name": "classic-0.0.19a-06-wasm",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/classic-0.0.19a-06-wasm.html"
+  },
+  {
+    "name": "classic-0.0.20a-02-wasm",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/classic-0.0.20a-02-wasm.html"
+  },
+  {
+    "name": "classic-0.0.22a-05-wasm",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/classic-0.0.22a-05-wasm.html"
+  },
+  {
+    "name": "classic-0.0.23a-01-wasm",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/classic-0.0.23a-01-wasm.html"
+  },
+  {
+    "name": "classic-0.0.24a-03-wasm",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/classic-0.0.24a-03-wasm.html"
+  },
+  {
+    "name": "classic-0.0.25a-05-wasm",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/classic-0.0.25a-05-wasm.html"
+  },
+  {
+    "name": "claw-carnival",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/claw-carnival.html"
+  },
+  {
+    "name": "clean-slate",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/clean-slate.html"
+  },
+  {
+    "name": "cleanup-io",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/cleanup-io.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/cleanup-io.html"
+  },
+  {
+    "name": "climbing-route",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/climbing-route.html"
+  },
+  {
+    "name": "clockwork-escape",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/clockwork-escape.html"
+  },
+  {
+    "name": "cluster-rush",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/cluster-rush.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/cluster-rush.html"
+  },
+  {
+    "name": "codmw4",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/codmw4.html"
+  },
+  {
+    "name": "comet-weaver",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/comet-weaver.html"
+  },
+  {
+    "name": "connect-arena",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/connect-arena.html"
+  },
+  {
+    "name": "cookie-clicker",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/cookie-clicker.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/cookie-clicker.htm"
+  },
+  {
+    "name": "cookie",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/cookie.html"
+  },
+  {
+    "name": "coreball",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/coreball.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/coreball.html"
+  },
+  {
+    "name": "courier-grid",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/courier-grid.html"
+  },
+  {
+    "name": "courtroom-clash",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/courtroom-clash.html"
+  },
+  {
+    "name": "cozy-organizer",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/cozy-organizer.html"
+  },
+  {
+    "name": "crazy-cars",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/crazy-cars.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/crazy-cars.html"
+  },
+  {
+    "name": "crazy-cattle-3D",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/crazy-cattle-3D.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/crazy-cattle-3D.html"
+  },
+  {
+    "name": "crazy-crash-landing",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/crazy-crash-landing.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/crazy-crash-landing.html"
+  },
+  {
+    "name": "crazy-motorcycle",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/crazy-motorcycle.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/crazy-motorcycle.html"
+  },
+  {
+    "name": "crossword-cafe",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/crossword-cafe.html"
+  },
+  {
+    "name": "crossy-road",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/crossy-road.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/crossy-road.htm"
+  },
+  {
+    "name": "crossyroads",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/crossyroads.html"
+  },
+  {
+    "name": "csgo",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/csgo.html"
+  },
+  {
+    "name": "curling-endgame",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/curling-endgame.html"
+  },
+  {
+    "name": "cut-the-rope-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/cut-the-rope-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/cut-the-rope-2.html"
+  },
+  {
+    "name": "cut-the-rope-holiday-gift",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/cut-the-rope-holiday-gift.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/cut-the-rope-holiday-gift.html"
+  },
+  {
+    "name": "cut-the-rope-time-travel",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/cut-the-rope-time-travel.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/cut-the-rope-time-travel.html"
+  },
+  {
+    "name": "cut-the-rope",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/cut-the-rope.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/cut-the-rope.html"
+  },
+  {
+    "name": "dadish-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/dadish-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/dadish-2.html"
+  },
+  {
+    "name": "dadish-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/dadish-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/dadish-3.html"
+  },
+  {
+    "name": "dadish",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/dadish.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/dadish.html"
+  },
+  {
+    "name": "deadly-descent",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/deadly-descent.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/deadly-descent.html"
+  },
+  {
+    "name": "death-chase",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/death-chase.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/death-chase.html"
+  },
+  {
+    "name": "death-run-3D",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/death-run-3D.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/death-run-3D.html"
+  },
+  {
+    "name": "deltarune",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/deltarune.html"
+  },
+  {
+    "name": "demolition-derby-crash-racing",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/demolition-derby-crash-racing.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/demolition-derby-crash-racing.html"
+  },
+  {
+    "name": "detective-desk",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/detective-desk.html"
+  },
+  {
+    "name": "dice-delver",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/dice-delver.html"
+  },
+  {
+    "name": "dice-roll",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/dice-roll.html"
+  },
+  {
+    "name": "dojo-duel",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/dojo-duel.html"
+  },
+  {
+    "name": "doodle-jump",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/doodle-jump.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/doodle-jump.html"
+  },
+  {
+    "name": "doom",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/doom.html"
+  },
+  {
+    "name": "draw-climber",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/draw-climber.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/draw-climber.html"
+  },
+  {
+    "name": "dreadhead-parkour",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/dreadhead-parkour.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/dreadhead-parkour.htm"
+  },
+  {
+    "name": "drift-boss",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/drift-boss.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/drift-boss.htm"
+  },
+  {
+    "name": "drift-hunters-pro",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/drift-hunters-pro.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/drift-hunters-pro.html"
+  },
+  {
+    "name": "drift-racer",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/drift-racer.html"
+  },
+  {
+    "name": "drifthunters",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/drifthunters.html"
+  },
+  {
+    "name": "drive-mad",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/drive-mad.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/drive-mad.htm"
+  },
+  {
+    "name": "drone-survey",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/drone-survey.html"
+  },
+  {
+    "name": "duck-life-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/duck-life-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/duck-life-2.html"
+  },
+  {
+    "name": "duck-life-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/duck-life-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/duck-life-3.html"
+  },
+  {
+    "name": "duck-life-4",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/duck-life-4.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/duck-life-4.html"
+  },
+  {
+    "name": "duck-life-5",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/duck-life-5.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/duck-life-5.html"
+  },
+  {
+    "name": "duck-life",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/duck-life.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/duck-life.html"
+  },
+  {
+    "name": "ducklings-io",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/ducklings-io.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/ducklings-io.html"
+  },
+  {
+    "name": "dungeon-delver",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/dungeon-delver.html"
+  },
+  {
+    "name": "eagle-ride",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/eagle-ride.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/eagle-ride.html"
+  },
+  {
+    "name": "earn-to-die-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/earn-to-die-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/earn-to-die-2.html"
+  },
+  {
+    "name": "earn-to-die",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/earn-to-die.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/earn-to-die.html"
+  },
+  {
+    "name": "ecosystem-keeper",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/ecosystem-keeper.html"
+  },
+  {
+    "name": "eggy-car",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/eggy-car.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/eggy-car.html"
+  },
+  {
+    "name": "elastic-face",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/elastic-face.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/elastic-face.htm"
+  },
+  {
+    "name": "elemental-sandbox",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/elemental-sandbox.html"
+  },
+  {
+    "name": "ember-tactics",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/ember-tactics.html"
+  },
+  {
+    "name": "escape-road-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/escape-road-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/escape-road-2.html"
+  },
+  {
+    "name": "escape-road-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/escape-road-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/escape-road-3.html"
+  },
+  {
+    "name": "escape-road",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/escape-road.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/escape-road.html"
+  },
+  {
+    "name": "escaping-the-prison",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/escaping-the-prison.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/escaping-the-prison.html"
+  },
+  {
+    "name": "eugenes-life",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/eugenes-life.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/eugenes-life.html"
+  },
+  {
+    "name": "evil-glitch",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/evil-glitch.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/evil-glitch.html"
+  },
+  {
+    "name": "fancy-pants-adventure-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/fancy-pants-adventure-2.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fancy-pants-adventure-2.html"
+  },
+  {
+    "name": "fancy-pants-adventure",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/fancy-pants-adventure.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fancy-pants-adventure.html"
+  },
+  {
+    "name": "fancypantsadventure",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fancypantsadventure.html"
+  },
+  {
+    "name": "fifa11",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fifa11.html"
+  },
+  {
+    "name": "fireblob",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/fireblob.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fireblob.html"
+  },
+  {
+    "name": "fireboy-and-watergirl-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/fireboy-and-watergirl-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fireboy-and-watergirl-2.html"
+  },
+  {
+    "name": "fireboy-and-watergirl-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/fireboy-and-watergirl-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fireboy-and-watergirl-3.html"
+  },
+  {
+    "name": "fireboy-and-watergirl-4",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/fireboy-and-watergirl-4.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fireboy-and-watergirl-4.html"
+  },
+  {
+    "name": "fireboy-and-watergirl",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/fireboy-and-watergirl.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fireboy-and-watergirl.html"
+  },
+  {
+    "name": "fishing-harbor",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fishing-harbor.html"
+  },
+  {
+    "name": "flappy-bird",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/flappy-bird.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/flappy-bird.html"
+  },
+  {
+    "name": "flappy-glider",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/flappy-glider.html"
+  },
+  {
+    "name": "fleeing-the-complex",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/fleeing-the-complex.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fleeing-the-complex.html"
+  },
+  {
+    "name": "fleet-duel",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fleet-duel.html"
+  },
+  {
+    "name": "flood-runner-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/flood-runner-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/flood-runner-2.html"
+  },
+  {
+    "name": "flood-runner-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/flood-runner-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/flood-runner-3.html"
+  },
+  {
+    "name": "flood-runner-4",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/flood-runner-4.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/flood-runner-4.html"
+  },
+  {
+    "name": "fnaf-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/fnaf-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fnaf-2.html"
+  },
+  {
+    "name": "fnaf-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/fnaf-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fnaf-3.html"
+  },
+  {
+    "name": "fnaf-4",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/fnaf-4.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fnaf-4.html"
+  },
+  {
+    "name": "fnaf-sister-location",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/fnaf-sister-location.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fnaf-sister-location.html"
+  },
+  {
+    "name": "fnaf",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/fnaf.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fnaf.html"
+  },
+  {
+    "name": "fnaf2",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fnaf2.html"
+  },
+  {
+    "name": "fnaf3",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fnaf3.html"
+  },
+  {
+    "name": "fnaf4",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fnaf4.html"
+  },
+  {
+    "name": "fnf",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fnf.html"
+  },
+  {
+    "name": "football-bros",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/football-bros.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/football-bros.html"
+  },
+  {
+    "name": "football-legends",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/football-legends.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/football-legends.html"
+  },
+  {
+    "name": "footbros",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/footbros.html"
+  },
+  {
+    "name": "forest-dash",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/forest-dash.html"
+  },
+  {
+    "name": "free-rider-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/free-rider-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/free-rider-3.html"
+  },
+  {
+    "name": "frequency-bureau",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/frequency-bureau.html"
+  },
+  {
+    "name": "friday-night-funkin",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/friday-night-funkin.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/friday-night-funkin.html"
+  },
+  {
+    "name": "frontier-command",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/frontier-command.html"
+  },
+  {
+    "name": "fruit-ninja",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/fruit-ninja.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fruit-ninja.html"
+  },
+  {
+    "name": "fruit-slice",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fruit-slice.html"
+  },
+  {
+    "name": "fruitninja",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/fruitninja.html"
+  },
+  {
+    "name": "funny-battle-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/funny-battle-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/funny-battle-2.html"
+  },
+  {
+    "name": "funny-battle",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/funny-battle.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/funny-battle.html"
+  },
+  {
+    "name": "funny-mad-racing",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/funny-mad-racing.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/funny-mad-racing.html"
+  },
+  {
+    "name": "funny-shooter-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/funny-shooter-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/funny-shooter-2.html"
+  },
+  {
+    "name": "funnyshooter2",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/funnyshooter2.html"
+  },
+  {
+    "name": "garden-front",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/garden-front.html"
+  },
+  {
+    "name": "gear-calibrator",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/gear-calibrator.html"
+  },
+  {
+    "name": "gem-garden",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/gem-garden.html"
+  },
+  {
+    "name": "geometry-dash-lite",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/geometry-dash-lite.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/geometry-dash-lite.html"
+  },
+  {
+    "name": "geometry-dash",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/geometry-dash.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/geometry-dash.html"
+  },
+  {
+    "name": "geometry-vibes",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/geometry-vibes.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/geometry-vibes.html"
+  },
+  {
+    "name": "geometrydash",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/geometrydash.html"
+  },
+  {
+    "name": "get-on-top",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/get-on-top.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/get-on-top.html"
+  },
+  {
+    "name": "getaway-shootout",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/getaway-shootout.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/getaway-shootout.html"
+  },
+  {
+    "name": "getaway",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/getaway.html"
+  },
+  {
+    "name": "gladd",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/gladd.html"
+  },
+  {
+    "name": "gladi-hoppers",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/gladi-hoppers.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/gladi-hoppers.html"
+  },
+  {
+    "name": "glyph-warden",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/glyph-warden.html"
+  },
+  {
+    "name": "google-baseball",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/google-baseball.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/google-baseball.html"
+  },
+  {
+    "name": "google-dino",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/google-dino.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/google-dino.html"
+  },
+  {
+    "name": "granny-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/granny-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/granny-2.html"
+  },
+  {
+    "name": "granny",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/granny.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/granny.html"
+  },
+  {
+    "name": "granny2",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/granny2.html"
+  },
+  {
+    "name": "guess-their-answer",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/guess-their-answer.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/guess-their-answer.html"
+  },
+  {
+    "name": "hanger-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/hanger-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/hanger-2.html"
+  },
+  {
+    "name": "happy-wheels",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/happy-wheels.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/happy-wheels.html"
+  },
+  {
+    "name": "hazard",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/hazard.html"
+  },
+  {
+    "name": "helix-jump",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/helix-jump.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/helix-jump.html"
+  },
+  {
+    "name": "highway-traffic",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/highway-traffic.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/highway-traffic.html"
+  },
+  {
+    "name": "hill-climb-racing-lite",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/hill-climb-racing-lite.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/hill-climb-racing-lite.html"
+  },
+  {
+    "name": "hive-sovereign",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/hive-sovereign.html"
+  },
+  {
+    "name": "hole-io",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/hole-io.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/hole-io.html"
+  },
+  {
+    "name": "hollow",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/hollow.html"
+  },
+  {
+    "name": "house-of-hazards",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/house-of-hazards.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/house-of-hazards.html"
+  },
+  {
+    "name": "hover-racer-drive",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/hover-racer-drive.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/hover-racer-drive.html"
+  },
+  {
+    "name": "ice-dodo",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/ice-dodo.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/ice-dodo.html"
+  },
+  {
+    "name": "icedodo",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/icedodo.html"
+  },
+  {
+    "name": "idle-breakout",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/idle-breakout.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/idle-breakout.html"
+  },
+  {
+    "name": "idle-dice",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/idle-dice.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/idle-dice.html"
+  },
+  {
+    "name": "infiltrating-the-airship",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/infiltrating-the-airship.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/infiltrating-the-airship.html"
+  },
+  {
+    "name": "infinite-craft",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/infinite-craft.html"
+  },
+  {
+    "name": "iron-snout",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/iron-snout.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/iron-snout.html"
+  },
+  {
+    "name": "island-survival",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/island-survival.html"
+  },
+  {
+    "name": "jacksmith",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/jacksmith.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/jacksmith.html"
+  },
+  {
+    "name": "jet",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/jet.html"
+  },
+  {
+    "name": "jetpack-joyride",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/jetpack-joyride.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/jetpack-joyride.html"
+  },
+  {
+    "name": "johnny-trigger",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/johnny-trigger.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/johnny-trigger.html"
+  },
+  {
+    "name": "jumping-shell",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/jumping-shell.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/jumping-shell.html"
+  },
+  {
+    "name": "karate-bros",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/karate-bros.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/karate-bros.html"
+  },
+  {
+    "name": "karl",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/karl.html"
+  },
+  {
+    "name": "kart-bros",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/kart-bros.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/kart-bros.html"
+  },
+  {
+    "name": "kinder",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/kinder.html"
+  },
+  {
+    "name": "kinder2",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/kinder2.html"
+  },
+  {
+    "name": "kinder3",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/kinder3.html"
+  },
+  {
+    "name": "kittytoy",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/kittytoy.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/kittytoy.html"
+  },
+  {
+    "name": "lantern-memory",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/lantern-memory.html"
+  },
+  {
+    "name": "learn-to-fly-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/learn-to-fly-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/learn-to-fly-2.html"
+  },
+  {
+    "name": "learn-to-fly-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/learn-to-fly-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/learn-to-fly-3.html"
+  },
+  {
+    "name": "learn-to-fly-idle",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/learn-to-fly-idle.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/learn-to-fly-idle.html"
+  },
+  {
+    "name": "learn-to-fly",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/learn-to-fly.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/learn-to-fly.html"
+  },
+  {
+    "name": "level-devil",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/level-devil.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/level-devil.html"
+  },
+  {
+    "name": "linerider",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/linerider.html"
+  },
+  {
+    "name": "little-alchemy-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/little-alchemy-2.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/little-alchemy-2.html"
+  },
+  {
+    "name": "lockmaster-shift",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/lockmaster-shift.html"
+  },
+  {
+    "name": "madalin-stunt-cars-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/madalin-stunt-cars-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/madalin-stunt-cars-2.html"
+  },
+  {
+    "name": "madness-project-nexus",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/madness-project-nexus.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/madness-project-nexus.html"
+  },
+  {
+    "name": "mahjong-link",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/mahjong-link.html"
+  },
+  {
+    "name": "mariocombat",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/mariocombat.html"
+  },
+  {
+    "name": "mariokart64",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/mariokart64.html"
+  },
+  {
+    "name": "market-pulse",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/market-pulse.html"
+  },
+  {
+    "name": "maze-chase",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/maze-chase.html"
+  },
+  {
+    "name": "melon-playground",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/melon-playground.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/melon-playground.html"
+  },
+  {
+    "name": "merge-orbit",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/merge-orbit.html"
+  },
+  {
+    "name": "merge-round-racers",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/merge-round-racers.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/merge-round-racers.html"
+  },
+  {
+    "name": "metal",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/metal.html"
+  },
+  {
+    "name": "metro-weaver",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/metro-weaver.html"
+  },
+  {
+    "name": "metroidfusion",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/metroidfusion.html"
+  },
+  {
+    "name": "midnight-chess",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/midnight-chess.html"
+  },
+  {
+    "name": "midnight-monitor",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/midnight-monitor.html"
+  },
+  {
+    "name": "mine-matrix",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/mine-matrix.html"
+  },
+  {
+    "name": "minesweeper",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/minesweeper.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/minesweeper.html"
+  },
+  {
+    "name": "mist-valley-herbarium",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/mist-valley-herbarium.html"
+  },
+  {
+    "name": "moba-frontier",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/moba-frontier.html"
+  },
+  {
+    "name": "mole-market",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/mole-market.html"
+  },
+  {
+    "name": "monkey-mart",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/monkey-mart.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/monkey-mart.htm"
+  },
+  {
+    "name": "monster-horde",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/monster-horde.html"
+  },
+  {
+    "name": "monster-tamer",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/monster-tamer.html"
+  },
+  {
+    "name": "monster-tracks",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/monster-tracks.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/monster-tracks.html"
+  },
+  {
+    "name": "moon-lander",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/moon-lander.html"
+  },
+  {
+    "name": "mosaic-jigsaw",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/mosaic-jigsaw.html"
+  },
+  {
+    "name": "motherload",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/motherload.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/motherload.html"
+  },
+  {
+    "name": "moto-x3m-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/moto-x3m-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/moto-x3m-2.html"
+  },
+  {
+    "name": "moto-x3m-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/moto-x3m-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/moto-x3m-3.html"
+  },
+  {
+    "name": "moto-x3m-pool-party",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/moto-x3m-pool-party.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/moto-x3m-pool-party.html"
+  },
+  {
+    "name": "moto-x3m-spooky-land",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/moto-x3m-spooky-land.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/moto-x3m-spooky-land.html"
+  },
+  {
+    "name": "moto-x3m-winter",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/moto-x3m-winter.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/moto-x3m-winter.html"
+  },
+  {
+    "name": "moto-x3m",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/moto-x3m.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/moto-x3m.htm"
+  },
+  {
+    "name": "motox3m",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/motox3m.html"
+  },
+  {
+    "name": "murder",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/murder.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/murder.html"
+  },
+  {
+    "name": "museum-climate",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/museum-climate.html"
+  },
+  {
+    "name": "neon-2048",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/neon-2048.html"
+  },
+  {
+    "name": "noob-miner",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/noob-miner.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/noob-miner.html"
+  },
+  {
+    "name": "noodle-shift",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/noodle-shift.html"
+  },
+  {
+    "name": "nutsnbolts",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/nutsnbolts.html"
+  },
+  {
+    "name": "oblivoneve",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/oblivoneve.html"
+  },
+  {
+    "name": "observatory-watch",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/observatory-watch.html"
+  },
+  {
+    "name": "ocarina",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/ocarina.html"
+  },
+  {
+    "name": "omori",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/omori.html"
+  },
+  {
+    "name": "oneshot",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/oneshot.html"
+  },
+  {
+    "name": "openTTD",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/openTTD.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/openTTD.html"
+  },
+  {
+    "name": "opposite-day",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/opposite-day.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/opposite-day.html"
+  },
+  {
+    "name": "orbital-pinball",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/orbital-pinball.html"
+  },
+  {
+    "name": "orbital-stowage",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/orbital-stowage.html"
+  },
+  {
+    "name": "ovo-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/ovo-2.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/ovo-2.html"
+  },
+  {
+    "name": "ovo-3-dimensions",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/ovo-3-dimensions.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/ovo-3-dimensions.html"
+  },
+  {
+    "name": "ovo",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/ovo.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/ovo.html"
+  },
+  {
+    "name": "ovo2",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/ovo2.html"
+  },
+  {
+    "name": "pac-man",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/pac-man.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/pac-man.html"
+  },
+  {
+    "name": "papas-bakeria",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/papas-bakeria.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/papas-bakeria.html"
+  },
+  {
+    "name": "papas-burgeria",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/papas-burgeria.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/papas-burgeria.html"
+  },
+  {
+    "name": "papas-cheeseria",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/papas-cheeseria.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/papas-cheeseria.html"
+  },
+  {
+    "name": "papas-cupcakeria",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/papas-cupcakeria.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/papas-cupcakeria.html"
+  },
+  {
+    "name": "papas-donuteria",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/papas-donuteria.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/papas-donuteria.html"
+  },
+  {
+    "name": "papas-freezeria",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/papas-freezeria.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/papas-freezeria.html"
+  },
+  {
+    "name": "papas-hot-doggeria",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/papas-hot-doggeria.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/papas-hot-doggeria.html"
+  },
+  {
+    "name": "papas-pancakeria",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/papas-pancakeria.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/papas-pancakeria.html"
+  },
+  {
+    "name": "papas-pastaria",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/papas-pastaria.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/papas-pastaria.html"
+  },
+  {
+    "name": "papas-pizzeria",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/papas-pizzeria.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/papas-pizzeria.html"
+  },
+  {
+    "name": "papas-scooperia",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/papas-scooperia.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/papas-scooperia.html"
+  },
+  {
+    "name": "papas-sushiria",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/papas-sushiria.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/papas-sushiria.html"
+  },
+  {
+    "name": "papas-taco-mia",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/papas-taco-mia.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/papas-taco-mia.html"
+  },
+  {
+    "name": "papas-wingeria",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/papas-wingeria.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/papas-wingeria.html"
+  },
+  {
+    "name": "paper-io-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/paper-io-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/paper-io-2.htm"
+  },
+  {
+    "name": "paperio",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/paperio.html"
+  },
+  {
+    "name": "parking-fury-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/parking-fury-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/parking-fury-2.html"
+  },
+  {
+    "name": "parking-fury-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/parking-fury-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/parking-fury-3.html"
+  },
+  {
+    "name": "parking-fury",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/parking-fury.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/parking-fury.html"
+  },
+  {
+    "name": "pathogen-protocol",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/pathogen-protocol.html"
+  },
+  {
+    "name": "penalty-rush",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/penalty-rush.html"
+  },
+  {
+    "name": "perfection",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/perfection.html"
+  },
+  {
+    "name": "photo-safari",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/photo-safari.html"
+  },
+  {
+    "name": "picos-school",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/picos-school.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/picos-school.html"
+  },
+  {
+    "name": "ping-pong-chaos",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/ping-pong-chaos.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/ping-pong-chaos.html"
+  },
+  {
+    "name": "pixel-clues",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/pixel-clues.html"
+  },
+  {
+    "name": "pixel-speedrun",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/pixel-speedrun.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/pixel-speedrun.html"
+  },
+  {
+    "name": "plants-vs-zombies",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/plants-vs-zombies.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/plants-vs-zombies.html"
+  },
+  {
+    "name": "plonky",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/plonky.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/plonky.html"
+  },
+  {
+    "name": "pocket-companion",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/pocket-companion.html"
+  },
+  {
+    "name": "pocket-empire",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/pocket-empire.html"
+  },
+  {
+    "name": "pocket-farm",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/pocket-farm.html"
+  },
+  {
+    "name": "pocket-golf",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/pocket-golf.html"
+  },
+  {
+    "name": "pokemonemerald",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/pokemonemerald.html"
+  },
+  {
+    "name": "pokemonemeraldrg",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/pokemonemeraldrg.html"
+  },
+  {
+    "name": "pokemonfirered",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/pokemonfirered.html"
+  },
+  {
+    "name": "pokemonleafgreen",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/pokemonleafgreen.html"
+  },
+  {
+    "name": "pokemonruby",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/pokemonruby.html"
+  },
+  {
+    "name": "pokemonstadium",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/pokemonstadium.html"
+  },
+  {
+    "name": "pokemonunbound",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/pokemonunbound.html"
+  },
+  {
+    "name": "polytrack",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/polytrack.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/polytrack.html"
+  },
+  {
+    "name": "poor-bunny",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/poor-bunny.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/poor-bunny.html"
+  },
+  {
+    "name": "pou",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/pou.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/pou.html"
+  },
+  {
+    "name": "prism-breaker",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/prism-breaker.html"
+  },
+  {
+    "name": "prism-orchard",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/prism-orchard.html"
+  },
+  {
+    "name": "pulse-studio",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/pulse-studio.html"
+  },
+  {
+    "name": "radish-guard",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/radish-guard.html"
+  },
+  {
+    "name": "ragdoll-archers",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/ragdoll-archers.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/ragdoll-archers.htm"
+  },
+  {
+    "name": "ragdoll-hit",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/ragdoll-hit.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/ragdoll-hit.html"
+  },
+  {
+    "name": "ragdoll-soccer",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/ragdoll-soccer.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/ragdoll-soccer.html"
+  },
+  {
+    "name": "red-ball-4-vol-1",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/red-ball-4-vol-1.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/red-ball-4-vol-1.html"
+  },
+  {
+    "name": "red-ball-4-vol-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/red-ball-4-vol-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/red-ball-4-vol-2.html"
+  },
+  {
+    "name": "red-ball-4-vol-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/red-ball-4-vol-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/red-ball-4-vol-3.html"
+  },
+  {
+    "name": "redball",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/redball.html"
+  },
+  {
+    "name": "reflexes",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/reflexes.html"
+  },
+  {
+    "name": "relay-coordination",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/relay-coordination.html"
+  },
+  {
+    "name": "retro-bowl-college",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/retro-bowl-college.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/retro-bowl-college.html"
+  },
+  {
+    "name": "retro-bowl",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/retro-bowl.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/retro-bowl.html"
+  },
+  {
+    "name": "retro-highway",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/retro-highway.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/retro-highway.html"
+  },
+  {
+    "name": "retro-ping-pong",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/retro-ping-pong.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/retro-ping-pong.html"
+  },
+  {
+    "name": "retrobowl",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/retrobowl.html"
+  },
+  {
+    "name": "retrobowlcollege",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/retrobowlcollege.html"
+  },
+  {
+    "name": "riddle-school-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/riddle-school-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/riddle-school-2.html"
+  },
+  {
+    "name": "riddle-school-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/riddle-school-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/riddle-school-3.html"
+  },
+  {
+    "name": "riddle-school-4",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/riddle-school-4.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/riddle-school-4.html"
+  },
+  {
+    "name": "riddle-school-5",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/riddle-school-5.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/riddle-school-5.html"
+  },
+  {
+    "name": "riddle-school",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/riddle-school.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/riddle-school.html"
+  },
+  {
+    "name": "riddle-transfer-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/riddle-transfer-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/riddle-transfer-2.html"
+  },
+  {
+    "name": "riddle-transfer",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/riddle-transfer.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/riddle-transfer.html"
+  },
+  {
+    "name": "riddleschool",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/riddleschool.html"
+  },
+  {
+    "name": "river-holdem",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/river-holdem.html"
+  },
+  {
+    "name": "rocket-soccer-derby",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/rocket-soccer-derby.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/rocket-soccer-derby.html"
+  },
+  {
+    "name": "rooftop-run",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/rooftop-run.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/rooftop-run.html"
+  },
+  {
+    "name": "rooftop-snipers-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/rooftop-snipers-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/rooftop-snipers-2.html"
+  },
+  {
+    "name": "rooftop-snipers",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/rooftop-snipers.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/rooftop-snipers.htm"
+  },
+  {
+    "name": "rooftopsnipers",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/rooftopsnipers.html"
+  },
+  {
+    "name": "rooftopsnipers2",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/rooftopsnipers2.html"
+  },
+  {
+    "name": "run-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/run-2.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/run-2.html"
+  },
+  {
+    "name": "run-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/run-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/run-3.html"
+  },
+  {
+    "name": "run",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/run.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/run.html"
+  },
+  {
+    "name": "runway-stylist",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/runway-stylist.html"
+  },
+  {
+    "name": "sand-game",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/sand-game.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/sand-game.html"
+  },
+  {
+    "name": "sandbox-city",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/sandbox-city.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/sandbox-city.html"
+  },
+  {
+    "name": "shadow-post",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/shadow-post.html"
+  },
+  {
+    "name": "shan-hai",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/shan-hai.html"
+  },
+  {
+    "name": "short-life",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/short-life.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/short-life.html"
+  },
+  {
+    "name": "signal-caravan",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/signal-caravan.html"
+  },
+  {
+    "name": "silent-rescue",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/silent-rescue.html"
+  },
+  {
+    "name": "silent",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/silent.html"
+  },
+  {
+    "name": "silksong",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/silksong.html"
+  },
+  {
+    "name": "six-cats-under",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/six-cats-under.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/six-cats-under.html"
+  },
+  {
+    "name": "sky-hop",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/sky-hop.html"
+  },
+  {
+    "name": "skyline-planner",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/skyline-planner.html"
+  },
+  {
+    "name": "slingstorm",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/slingstorm.html"
+  },
+  {
+    "name": "slope-2-player",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/slope-2-player.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/slope-2-player.html"
+  },
+  {
+    "name": "slope-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/slope-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/slope-3.html"
+  },
+  {
+    "name": "slope",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/slope.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/slope.html"
+  },
+  {
+    "name": "slopeplus",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/slopeplus.html"
+  },
+  {
+    "name": "slow-roads",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/slow-roads.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/slow-roads.html"
+  },
+  {
+    "name": "sm-63",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/sm-63.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/sm-63.html"
+  },
+  {
+    "name": "sm-64",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/sm-64.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/sm-64.html"
+  },
+  {
+    "name": "snail-bob-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/snail-bob-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/snail-bob-2.html"
+  },
+  {
+    "name": "snail-bob-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/snail-bob-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/snail-bob-3.html"
+  },
+  {
+    "name": "snail-bob-4",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/snail-bob-4.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/snail-bob-4.html"
+  },
+  {
+    "name": "snail-bob-5",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/snail-bob-5.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/snail-bob-5.html"
+  },
+  {
+    "name": "snail-bob-6",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/snail-bob-6.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/snail-bob-6.html"
+  },
+  {
+    "name": "snail-bob-7",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/snail-bob-7.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/snail-bob-7.html"
+  },
+  {
+    "name": "snail-bob-8",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/snail-bob-8.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/snail-bob-8.html"
+  },
+  {
+    "name": "snail-bob",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/snail-bob.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/snail-bob.html"
+  },
+  {
+    "name": "snake-game",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/snake-game.html"
+  },
+  {
+    "name": "snow-rider",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/snow-rider.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/snow-rider.htm"
+  },
+  {
+    "name": "snow-ridge",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/snow-ridge.html"
+  },
+  {
+    "name": "snow-road",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/snow-road.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/snow-road.htm"
+  },
+  {
+    "name": "snow",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/snow.html"
+  },
+  {
+    "name": "snowball-io",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/snowball-io.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/snowball-io.html"
+  },
+  {
+    "name": "snowrider",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/snowrider.html"
+  },
+  {
+    "name": "soccer-bros",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/soccer-bros.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/soccer-bros.html"
+  },
+  {
+    "name": "soccer-random",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/soccer-random.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/soccer-random.htm"
+  },
+  {
+    "name": "sokoban-quest",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/sokoban-quest.html"
+  },
+  {
+    "name": "solitaire-classic",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/solitaire-classic.html"
+  },
+  {
+    "name": "sonicthehedgehog",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/sonicthehedgehog.html"
+  },
+  {
+    "name": "space-is-key-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/space-is-key-2.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/space-is-key-2.html"
+  },
+  {
+    "name": "space-is-key",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/space-is-key.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/space-is-key.html"
+  },
+  {
+    "name": "space-waves",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/space-waves.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/space-waves.html"
+  },
+  {
+    "name": "spacebar-clicker",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/spacebar-clicker.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/spacebar-clicker.html"
+  },
+  {
+    "name": "spectrum-console",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/spectrum-console.html"
+  },
+  {
+    "name": "speed-stars",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/speed-stars.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/speed-stars.html"
+  },
+  {
+    "name": "sprunki",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/sprunki.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/sprunki.html"
+  },
+  {
+    "name": "spud-arena",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/spud-arena.html"
+  },
+  {
+    "name": "stack-tower",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/stack-tower.html"
+  },
+  {
+    "name": "stack",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/stack.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/stack.html"
+  },
+  {
+    "name": "stacktris",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/stacktris.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/stacktris.html"
+  },
+  {
+    "name": "starforge-idle",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/starforge-idle.html"
+  },
+  {
+    "name": "starline-route",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/starline-route.html"
+  },
+  {
+    "name": "starship-suspects",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/starship-suspects.html"
+  },
+  {
+    "name": "state-io",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/state-io.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/state-io.html"
+  },
+  {
+    "name": "stealing-the-diamond",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/stealing-the-diamond.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/stealing-the-diamond.html"
+  },
+  {
+    "name": "stick-archers-battle",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/stick-archers-battle.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/stick-archers-battle.html"
+  },
+  {
+    "name": "stick-fighter",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/stick-fighter.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/stick-fighter.html"
+  },
+  {
+    "name": "stick-merge",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/stick-merge.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/stick-merge.html"
+  },
+  {
+    "name": "stickman-hook",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/stickman-hook.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/stickman-hook.html"
+  },
+  {
+    "name": "stratigraphy-lab",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/stratigraphy-lab.html"
+  },
+  {
+    "name": "subway-surfers-beijing",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/subway-surfers-beijing.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/subway-surfers-beijing.html"
+  },
+  {
+    "name": "subway-surfers-havana",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/subway-surfers-havana.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/subway-surfers-havana.html"
+  },
+  {
+    "name": "subway-surfers-san-francisco",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/subway-surfers-san-francisco.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/subway-surfers-san-francisco.html"
+  },
+  {
+    "name": "subwaysurfersmiami",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/subwaysurfersmiami.html"
+  },
+  {
+    "name": "subwaysurferswinterholiday",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/subwaysurferswinterholiday.html"
+  },
+  {
+    "name": "sudoku-studio",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/sudoku-studio.html"
+  },
+  {
+    "name": "super-bike-the-champion",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/super-bike-the-champion.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/super-bike-the-champion.html"
+  },
+  {
+    "name": "super-liquid-soccer",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/super-liquid-soccer.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/super-liquid-soccer.html"
+  },
+  {
+    "name": "super-star-car",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/super-star-car.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/super-star-car.html"
+  },
+  {
+    "name": "superhot",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/superhot.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/superhot.html"
+  },
+  {
+    "name": "supermario64",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/supermario64.html"
+  },
+  {
+    "name": "switchyard-rush",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/switchyard-rush.html"
+  },
+  {
+    "name": "table-tennis-world-tour",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/table-tennis-world-tour.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/table-tennis-world-tour.html"
+  },
+  {
+    "name": "tag",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/tag.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/tag.html"
+  },
+  {
+    "name": "taiseiproject",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/taiseiproject.html"
+  },
+  {
+    "name": "tank-arena",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/tank-arena.html"
+  },
+  {
+    "name": "tanuki-sunset",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/tanuki-sunset.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/tanuki-sunset.html"
+  },
+  {
+    "name": "tap-road",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/tap-road.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/tap-road.html"
+  },
+  {
+    "name": "temple-of-boom",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/temple-of-boom.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/temple-of-boom.html"
+  },
+  {
+    "name": "temple-run-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/temple-run-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/temple-run-2.htm"
+  },
+  {
+    "name": "territorial-io",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/territorial-io.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/territorial-io.html"
+  },
+  {
+    "name": "tetrominoes",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/tetrominoes.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/tetrominoes.html"
+  },
+  {
+    "name": "the-impossible-quiz-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/the-impossible-quiz-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/the-impossible-quiz-2.html"
+  },
+  {
+    "name": "the-impossible-quiz",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/the-impossible-quiz.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/the-impossible-quiz.html"
+  },
+  {
+    "name": "there-is-no-g",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/there-is-no-g.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/there-is-no-g.html"
+  },
+  {
+    "name": "they-are-coming",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/they-are-coming.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/they-are-coming.html"
+  },
+  {
+    "name": "theycomin",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/theycomin.html"
+  },
+  {
+    "name": "this-is-the-only-level-too",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/this-is-the-only-level-too.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/this-is-the-only-level-too.html"
+  },
+  {
+    "name": "this-is-the-only-level",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/this-is-the-only-level.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/this-is-the-only-level.html"
+  },
+  {
+    "name": "thunder-vanguard",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/thunder-vanguard.html"
+  },
+  {
+    "name": "tidal-grid",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/tidal-grid.html"
+  },
+  {
+    "name": "tide-salvage",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/tide-salvage.html"
+  },
+  {
+    "name": "time-post",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/time-post.html"
+  },
+  {
+    "name": "time-shooter-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/time-shooter-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/time-shooter-2.html"
+  },
+  {
+    "name": "time-shooter-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/time-shooter-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/time-shooter-3.htm"
+  },
+  {
+    "name": "tiny-factory",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/tiny-factory.html"
+  },
+  {
+    "name": "tiny-fishing",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/tiny-fishing.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/tiny-fishing.html"
+  },
+  {
+    "name": "tinyfishing",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/tinyfishing.html"
+  },
+  {
+    "name": "tomb-of-the-mask",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/tomb-of-the-mask.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/tomb-of-the-mask.htm"
+  },
+  {
+    "name": "touchline-manager",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/touchline-manager.html"
+  },
+  {
+    "name": "trap-the-cat",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/trap-the-cat.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/trap-the-cat.html"
+  },
+  {
+    "name": "trivia-crack",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/trivia-crack.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/trivia-crack.html"
+  },
+  {
+    "name": "truss-workshop",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/truss-workshop.html"
+  },
+  {
+    "name": "tube-jumpers",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/tube-jumpers.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/tube-jumpers.html"
+  },
+  {
+    "name": "tunnel-rush",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/tunnel-rush.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/tunnel-rush.html"
+  },
+  {
+    "name": "ultrakill",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/ultrakill.html"
+  },
+  {
+    "name": "unfairundyne",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/unfairundyne.html"
+  },
+  {
+    "name": "unicycle-hero",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/unicycle-hero.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/unicycle-hero.html"
+  },
+  {
+    "name": "vex-4",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/vex-4.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/vex-4.html"
+  },
+  {
+    "name": "vex-5",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/vex-5.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/vex-5.html"
+  },
+  {
+    "name": "vex-6",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/vex-6.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/vex-6.htm"
+  },
+  {
+    "name": "vex-7",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/vex-7.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/vex-7.htm"
+  },
+  {
+    "name": "vex-8",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/vex-8.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/vex-8.htm"
+  },
+  {
+    "name": "vex-x3m-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/vex-x3m-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/vex-x3m-2.html"
+  },
+  {
+    "name": "vex-x3m",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/vex-x3m.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/vex-x3m.html"
+  },
+  {
+    "name": "vex",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/vex.html"
+  },
+  {
+    "name": "vex2",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/vex2.html"
+  },
+  {
+    "name": "vex3",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/vex3.html"
+  },
+  {
+    "name": "volley-random",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/volley-random.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/volley-random.html"
+  },
+  {
+    "name": "volleyrandom",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/volleyrandom.html"
+  },
+  {
+    "name": "war-the-knights",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/war-the-knights.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/war-the-knights.html"
+  },
+  {
+    "name": "we-become-what-we-behold",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/we-become-what-we-behold.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/we-become-what-we-behold.html"
+  },
+  {
+    "name": "wheelie-bike",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/wheelie-bike.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/wheelie-bike.html"
+  },
+  {
+    "name": "wheely-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/wheely-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/wheely-2.html"
+  },
+  {
+    "name": "wheely-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/wheely-3.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/wheely-3.html"
+  },
+  {
+    "name": "wheely-4",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/wheely-4.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/wheely-4.html"
+  },
+  {
+    "name": "wheely-5",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/wheely-5.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/wheely-5.html"
+  },
+  {
+    "name": "wheely-6",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/wheely-6.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/wheely-6.html"
+  },
+  {
+    "name": "wheely-7",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/wheely-7.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/wheely-7.html"
+  },
+  {
+    "name": "wheely-8",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/wheely-8.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/wheely-8.html"
+  },
+  {
+    "name": "wheely",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/wheely.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/wheely.html"
+  },
+  {
+    "name": "wind-tunnel-contracts",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/wind-tunnel-contracts.html"
+  },
+  {
+    "name": "wonder-park",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/wonder-park.html"
+  },
+  {
+    "name": "word-grid",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/word-grid.html"
+  },
+  {
+    "name": "wordle-unlimited",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/wordle-unlimited.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/wordle-unlimited.html"
+  },
+  {
+    "name": "worlds-hardest-game-2",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/worlds-hardest-game-2.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/worlds-hardest-game-2.html"
+  },
+  {
+    "name": "worlds-hardest-game-3",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/worlds-hardest-game-3.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/worlds-hardest-game-3.html"
+  },
+  {
+    "name": "worlds-hardest-game",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/worlds-hardest-game.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/worlds-hardest-game.html"
+  },
+  {
+    "name": "wrestle-bros",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/wrestle-bros.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/wrestle-bros.html"
+  },
+  {
+    "name": "yohoho-io",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/yohoho-io.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/yohoho-io.html"
+  },
+  {
+    "name": "yume",
+    "cover": null,
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/yume.html"
+  },
+  {
+    "name": "zombie-rush",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/zombie-rush.jpg",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/zombie-rush.html"
+  },
+  {
+    "name": "zrist",
+    "cover": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/covers/zrist.png",
+    "url": "https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/ert11er-patch-cover/offline/zrist.html"
+  }
+]

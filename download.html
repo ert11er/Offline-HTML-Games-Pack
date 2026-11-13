@@ -30,16 +30,16 @@
       margin-bottom: 8px;
     }
 
-    #status {
-      font-size: 0.9rem;
+    #status,
+    #localStatus {
       color: #666;
+      font-size: 0.9rem;
     }
 
     .error {
       color: #d9534f !important;
     }
 
-    /* Grid layout */
     .grid-container {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
@@ -48,9 +48,8 @@
       margin: 0 auto;
     }
 
-    /* Grid Card styling matching your design theme */
     .grid-card {
-      background: #ffffff;
+      background: #fff;
       border-radius: 8px;
       padding: 16px;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
@@ -67,133 +66,290 @@
       box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
     }
 
+    .cover {
+      width: 100%;
+      aspect-ratio: 16 / 10;
+      object-fit: cover;
+      border-radius: 6px;
+      margin-bottom: 12px;
+      background: #eee;
+    }
+
     .card-title {
-      font-weight: 600;
+      color: #222;
       font-size: 0.95rem;
+      font-weight: 600;
       margin-bottom: 14px;
-      word-break: break-all;
+      overflow-wrap: anywhere;
+    }
+
+    .download-btn,
+    .local-btn {
+      width: 100%;
+      padding: 10px 12px;
+      border: none;
+      border-radius: 6px;
+      background: #8bbbe5;
+      color: #fff;
+      font-size: 0.9rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    .download-btn:hover,
+    .local-btn:hover {
+      background: #06c;
+    }
+
+    .download-btn:disabled,
+    .local-btn:disabled {
+      background: #ccc;
+      cursor: not-allowed;
+    }
+
+    .local-section {
+      max-width: 1200px;
+      margin: 48px auto 0;
+      padding: 24px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+      text-align: center;
+    }
+
+    .local-section h2 {
+      margin-bottom: 8px;
       color: #222;
     }
 
-    .download-btn {
-      width: 100%;
-      background-color: #8bbbe5;
-      color: #ffffff;
-      border: none;
-      padding: 10px 12px;
-      font-size: 0.9rem;
-      font-weight: 600;
+    .local-section p {
+      margin: 0 auto 16px;
+      max-width: 650px;
+      color: #666;
+      line-height: 1.5;
+    }
+
+    .local-controls {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+
+    input[type="file"],
+    select {
+      max-width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
       border-radius: 6px;
-      cursor: pointer;
-      transition: background-color 0.2s;
+      background: #fff;
     }
 
-    .download-btn:hover {
-      background-color: #0066cc;
-    }
-
-    .download-btn:disabled {
-      background-color: #cccccc;
-      cursor: not-allowed;
+    #openLocalBtn {
+      width: auto;
     }
   </style>
 </head>
 <body>
-
   <header>
     <h1>Offline HTML Games</h1>
-    <div id="status">Fetching list...</div>
+    <div id="status">Fetching games...</div>
   </header>
 
   <main>
     <div id="gridContainer" class="grid-container"></div>
+
+    <section class="local-section" aria-labelledby="localHeading">
+      <h2 id="localHeading">Open a game from your files</h2>
+      <p>
+        If GitHub is blocked, choose an HTML game file saved on your device,
+        then select it below and open it directly.
+      </p>
+
+      <div class="local-controls">
+        <input
+          id="localFiles"
+          type="file"
+          accept=".html,.htm,text/html"
+          multiple
+          aria-label="Choose HTML game files"
+        >
+
+        <select id="localGameSelect" disabled aria-label="Select a local game">
+          <option value="">Choose a game file...</option>
+        </select>
+
+        <button id="openLocalBtn" class="local-btn" type="button" disabled>
+          Open Selected File
+        </button>
+      </div>
+
+      <div id="localStatus" aria-live="polite">
+        Selected files stay on your device; they are not uploaded.
+      </div>
+    </section>
   </main>
 
   <script>
-    const LIST_URL = 'https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/refs/heads/master/list.txt';
+    const LIST_URL =
+      'https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/master/list.json';
+
     const statusDiv = document.getElementById('status');
     const gridContainer = document.getElementById('gridContainer');
 
-    // 1. Fetch list.txt and generate grid items
-    async function loadGrid() {
+    async function loadGames() {
       try {
-        const response = await fetch(LIST_URL);
-        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-        
-        const text = await response.text();
-        const urls = text.split('\n').map(line => line.trim()).filter(line => line.length > 0);
+        const response = await fetch(LIST_URL, { cache: 'no-store' });
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
+        }
 
-        if (urls.length === 0) {
-          statusDiv.innerText = "No files found in list.txt.";
+        const games = await response.json();
+        if (!Array.isArray(games) || games.length === 0) {
+          statusDiv.textContent = 'No games found in list.json.';
           return;
         }
 
-        statusDiv.innerText = `Loaded ${urls.length} file(s) from list.txt.`;
+        for (const game of games) {
+          if (!game || typeof game.name !== 'string' || typeof game.url !== 'string') {
+            continue;
+          }
 
-        // Render cards inside grid
-        urls.forEach(url => {
-          const rawName = url.split('/').pop();
-          const fileName = rawName.includes('.') ? rawName : `${rawName}.html`;
-
-          const card = document.createElement('div');
+          const card = document.createElement('article');
           card.className = 'grid-card';
-          card.innerHTML = `
-            <div class="card-title">${fileName}</div>
-            <button class="download-btn" data-url="${url}" data-name="${fileName}">
-              Play & Download
-            </button>
-          `;
+
+          if (typeof game.cover === 'string' && game.cover) {
+            const cover = document.createElement('img');
+            cover.className = 'cover';
+            cover.src = game.cover;
+            cover.alt = `${game.name} cover`;
+            cover.loading = 'lazy';
+            cover.onerror = () => cover.remove();
+            card.appendChild(cover);
+          }
+
+          const title = document.createElement('div');
+          title.className = 'card-title';
+          title.textContent = game.name;
+          card.appendChild(title);
+
+          const button = document.createElement('button');
+          button.className = 'download-btn';
+          button.dataset.url = game.url;
+          button.dataset.name = getFileName(game.url, game.name);
+          button.textContent = 'Play & Download';
+          card.appendChild(button);
 
           gridContainer.appendChild(card);
-        });
+        }
 
-      } catch (err) {
-        console.error(err);
-        statusDiv.className = "error";
-        statusDiv.innerText = "Failed to load list.txt.";
+        statusDiv.textContent =
+          `Loaded ${gridContainer.childElementCount} game(s) from list.json.`;
+      } catch (error) {
+        console.error(error);
+        statusDiv.className = 'error';
+        statusDiv.textContent =
+          'Could not load the game list from GitHub. You can still open files below.';
       }
     }
 
-    // 2. Click handler to download file and launch in browser
-    gridContainer.addEventListener('click', async (e) => {
-      if (!e.target.classList.contains('download-btn')) return;
+    function getFileName(url, fallbackName) {
+      try {
+        const path = new URL(url).pathname;
+        return decodeURIComponent(path.split('/').pop()) || `${fallbackName}.html`;
+      } catch {
+        return `${fallbackName}.html`;
+      }
+    }
 
-      const btn = e.target;
-      const fileUrl = btn.dataset.url;
-      const fileName = btn.dataset.name;
+    gridContainer.addEventListener('click', async (event) => {
+      const button = event.target.closest('.download-btn');
+      if (!button) return;
 
-      btn.disabled = true;
-      btn.innerText = 'Loading...';
+      const fileUrl = button.dataset.url;
+      const fileName = button.dataset.name;
+      button.disabled = true;
+      button.textContent = 'Loading...';
+
+      let blobUrl;
 
       try {
         const response = await fetch(fileUrl);
-        if (!response.ok) throw new Error(`Failed to download file: ${response.statusText}`);
-        
-        const text = await response.text();
-        const blob = new Blob([text], { type: 'text/html' });
-        const blobUrl = URL.createObjectURL(blob);
+        if (!response.ok) {
+          throw new Error(`Download failed: HTTP ${response.status}`);
+        }
 
-        // Download to local storage
+        const blob = await response.blob();
+        blobUrl = URL.createObjectURL(blob);
+
         const downloadLink = document.createElement('a');
         downloadLink.href = blobUrl;
         downloadLink.download = fileName;
         document.body.appendChild(downloadLink);
         downloadLink.click();
-        document.body.removeChild(downloadLink);
+        downloadLink.remove();
 
-        // Open directly in a new tab
-        window.open(blobUrl, '_blank');
-
-      } catch (err) {
-        console.error(err);
-        alert(`Error opening ${fileName}`);
+        window.open(blobUrl, '_blank', 'noopener');
+      } catch (error) {
+        console.error(error);
+        alert(`Could not download ${fileName} from GitHub. If you have the HTML file saved, use the “Open a game from your files” section at the bottom.`);
       } finally {
-        btn.disabled = false;
-        btn.innerText = 'Play & Download';
+        button.disabled = false;
+        button.textContent = 'Play & Download';
+
+        if (blobUrl) {
+          setTimeout(() => URL.revokeObjectURL(blobUrl), 60000);
+        }
       }
     });
 
-    loadGrid();
+    const localFilesInput = document.getElementById('localFiles');
+    const localGameSelect = document.getElementById('localGameSelect');
+    const openLocalBtn = document.getElementById('openLocalBtn');
+    const localStatus = document.getElementById('localStatus');
+
+    let selectedLocalFiles = [];
+
+    localFilesInput.addEventListener('change', () => {
+      selectedLocalFiles = Array.from(localFilesInput.files || [])
+        .filter(file => /\.(html?|HTML?)$/.test(file.name));
+
+      localGameSelect.replaceChildren(
+        new Option('Choose a game file...', '')
+      );
+
+      selectedLocalFiles.forEach((file, index) => {
+        localGameSelect.add(new Option(file.name, String(index)));
+      });
+
+      localGameSelect.disabled = selectedLocalFiles.length === 0;
+      openLocalBtn.disabled = true;
+
+      if (selectedLocalFiles.length === 0) {
+        localStatus.textContent = 'Choose one or more .html or .htm game files.';
+      } else {
+        localStatus.textContent =
+          `${selectedLocalFiles.length} file(s) selected. Choose one to open.`;
+      }
+    });
+
+    localGameSelect.addEventListener('change', () => {
+      openLocalBtn.disabled = localGameSelect.value === '';
+    });
+
+    openLocalBtn.addEventListener('click', () => {
+      const index = Number(localGameSelect.value);
+      const file = selectedLocalFiles[index];
+
+      if (!file) return;
+
+      const localUrl = URL.createObjectURL(file);
+      window.open(localUrl, '_blank', 'noopener');
+      localStatus.textContent = `Opened ${file.name}.`;
+    });
+
+    loadGames();
   </script>
 </body>
 </html>

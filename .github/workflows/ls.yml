@@ -6,6 +6,7 @@ on:
       - master
     paths:
       - 'offline/**'
+      - 'covers/**'
   workflow_dispatch:
 
 concurrency:
@@ -25,19 +26,54 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Regenerate URL List and Update index.html
+      - name: Generate list.json
+        env:
+          REPOSITORY: ${{ github.repository }}
+          REF_NAME: ${{ github.ref_name }}
         run: |
-          BASE_URL="https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/offline"
-          
-          # 1. Generate list.txt
-          if [ -d "./offline" ]; then
-            find ./offline -maxdepth 1 -type f -name "*.html" | sort | sed "s|^\./offline/|${BASE_URL}/|" > list.txt
-          else
-            > list.txt
-          fi
+          python3 <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          from urllib.parse import quote
+
+          repository = os.environ["REPOSITORY"]
+          ref = quote(os.environ["REF_NAME"], safe="/")
+          raw_base = f"https://raw.githubusercontent.com/{repository}/{ref}"
+          cover_extensions = {".jpg", ".jpeg", ".png", ".webp", ".gif", ".svg"}
+
+          covers = {}
+          covers_dir = Path("covers")
+          if covers_dir.is_dir():
+              for cover in covers_dir.iterdir():
+                  if cover.is_file() and cover.suffix.lower() in cover_extensions:
+                      covers.setdefault(cover.stem.lower(), cover.name)
+
+          games = []
+          offline_dir = Path("offline")
+          if offline_dir.is_dir():
+              for html_file in sorted(offline_dir.iterdir(), key=lambda path: path.name.lower()):
+                  if not html_file.is_file() or html_file.suffix.lower() not in {".html", ".htm"}:
+                      continue
+
+                  cover_name = covers.get(html_file.stem.lower())
+                  games.append({
+                      "name": html_file.stem,
+                      "cover": (
+                          f"{raw_base}/covers/{quote(cover_name)}"
+                          if cover_name else None
+                      ),
+                      "url": f"{raw_base}/offline/{quote(html_file.name)}",
+                  })
+
+          Path("list.json").write_text(
+              json.dumps(games, indent=2, ensure_ascii=False) + "\n",
+              encoding="utf-8",
+          )
+          PY
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "auto: update list.txt and index.html with offline HTML files"
-          file_pattern: 'list.txt index.html'
+          commit_message: "auto: update list.json"
+          file_pattern: "list.json"
