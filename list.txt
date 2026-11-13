@@ -1,3 +1,2 @@
 https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/master/offline/Your Version is Outdated
-https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/master/offline/Download from here
-https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/master/index.html
+https://raw.githubusercontent.com/ert11er/Offline-HTML-Games-Pack/master/offline/Download from Github
