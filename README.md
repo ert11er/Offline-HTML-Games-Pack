@@ -4,6 +4,7 @@
 
 <p>A repo filled with 551 offline games that can each run on a single file. This is a good option if you are having internet connectivity issues, or you're at some place with <i>restricted internet</i>.</p>
 
+Most of these games are from the [Ultimate Game Stash](https://docs.google.com/document/u/4/d/1_FmH3BlSBQI7FGgAQL59-ZPe8eCxs35wel6JUyVaG8Q) but turned offline.
 
 **Usage:** Download [index.html](index.html) or use the [pages version](https://ert11er.github.io/Offline-HTML-Games-Pack/)
 
