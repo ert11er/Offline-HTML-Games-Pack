@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^list\.json$ server.php [L]
+RewriteRule ^$ server.php [L]
