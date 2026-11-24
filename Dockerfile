@@ -1,7 +1,5 @@
-FROM dunglas/frankenphp:1-php8.4-alpine
+FROM php:8.4-apache
 
-WORKDIR /app
-COPY . /app
-
+COPY . /var/www/html/
+RUN chown -R www-data:www-data /var/www/html
 EXPOSE 80
-CMD ["frankenphp", "run", "--config", "/app/app/Caddyfile"]
