@@ -4,4 +4,4 @@ WORKDIR /app
 COPY . /app
 
 EXPOSE 80
-CMD ["frankenphp", "run", "--config", "/app/Caddyfile"]
+CMD ["frankenphp", "run", "--config", "/app/app/Caddyfile"]
