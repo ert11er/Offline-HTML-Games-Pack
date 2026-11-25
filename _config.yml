@@ -1,0 +1,9 @@
+title: Offline HTML Games Pack
+description: 300 offline HTML games, each on a single file
+baseurl: /Offline-HTML-Games-Pack
+url: https://ert11er.github.io
+markdown: kramdown
+exclude:
+  - README.md
+  - server.php
+  - .htaccess
