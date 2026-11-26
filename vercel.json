@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/list.json",
+      "destination": "/api?resource=list"
+    },
+    {
+      "source": "/",
+      "destination": "/api"
+    }
+  ]
+}
