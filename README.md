@@ -6,7 +6,7 @@
 
 Most of these games are from the [Ultimate Game Stash](https://docs.google.com/document/u/4/d/1_FmH3BlSBQI7FGgAQL59-ZPe8eCxs35wel6JUyVaG8Q) but turned offline.
 
-**Usage:** Download [index.html](index.html) or use the [pages version](https://ert11er.github.io/Offline-HTML-Games-Pack/)
+**Usage:** Download [index.html](index.html) or use the [Vercel version](https://offline-html-games-pack-iota.vercel.app/) (recommended)
 
 If your school blocked opening html files, save this code as a bookmarklet, open [about:blank](about:blank) and run the bookmarklet. Or just paste it to devtools on [about:blank](about:blank) :
 ```javascript
@@ -14,9 +14,9 @@ javascript:(function(){document.open();document.write('<!doctype html><meta char
 ```
 
 ### Official Servers:
-- https://ert11er.github.io/Offline-HTML-Games-Pack/
+- https://offline-html-games-pack-iota.vercel.app/
 
 ### Community Servers:
 - None Right Now
 
-If you want to host your own community server, host [index.html](index.html) or [server.php](server.php) with [.htaccess](.htaccess) (recommended)
+If you want to host your own community server, host [node-server](https://github.com/ert11er/Offline-HTML-Games-Pack/tree/node-server) (recommended) or [static-server](https://github.com/ert11er/Offline-HTML-Games-Pack/tree/static-server).
